@@ -46,9 +46,9 @@ Since the **XOR function** cannot be solved using a single-layer perceptron, we 
 - **Loss decreases over 200 iterations**.  
 - **Final Predictions for XOR Inputs (~Close to 0 or 1):**  
   ```
-  Epoch 200
-  Loss: 0.02
-  Predictions: [[0.02 0.98 0.98 0.02]]
+  Epoch 180
+  Loss: 0.01727706658985529
+  Predictions: [[0.00670835 0.9351821  0.99790793 0.00318862]]
   ```
 
 ## 🤝 Contributing  
