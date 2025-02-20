@@ -51,6 +51,10 @@ Since the **XOR function** cannot be solved using a single-layer perceptron, we 
   Predictions: [[0.00670835 0.9351821  0.99790793 0.00318862]]
   ```
 
+  ![Epoch 1](XOR_proble.png)
+
+  ![Epoch 180](XOR_problem_last_epoch.png)
+
 ## 🤝 Contributing  
 Feel free to open an **issue** or submit a **pull request** if you have improvements or suggestions!  
 
